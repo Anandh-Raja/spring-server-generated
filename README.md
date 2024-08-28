@@ -1,5 +1,5 @@
 # Swagger generated server
-
+#Activation and configuration openAPI specification
 Spring Boot Server 
 
 
